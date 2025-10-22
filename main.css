@@ -4,12 +4,17 @@ header{
     }
     h3{
         font-size:103%;
+        font-style:italic;
         text-indent: 30px;
     }
     img{
         float:left;
         height:120px;
     }
+}
+
+main{
+    clear: left;
 }
 
 body{
@@ -32,4 +37,9 @@ h2{
 
 h3{
     font-size:105%;
+}
+
+footer{
+    p{
+    }
 }
